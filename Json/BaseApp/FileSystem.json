@@ -1,0 +1,120 @@
+[
+    {
+        "ButtonLabel": "Copy",
+        "ButtonId": "fscopy",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "Copy",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Move",
+        "ButtonId": "fsmove",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "Move",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Delete",
+        "ButtonId": "fsdelete",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "Delete",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Get",
+        "ButtonId": "fsget",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "Get",
+        "IsMainButton": false
+    },
+    {
+        "ModalId": "fsmodal1mfsget",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "GetModalSubmit",
+        "IsModal": true
+    },
+    {
+        "ButtonLabel": "Open",
+        "ButtonId": "fsopen",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "Open",
+        "IsMainButton": false
+    },
+    {
+        "ModalId": "fsmodal1mfsdelete",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "DeleteModalSubmit",
+        "IsModal": true
+    },
+    {
+        "ModalId": "fsmodal2mfsopen",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "OpenModalSubmit",
+        "IsModal": true
+    },
+    {
+        "ModalId": "fsmodalcopy",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "FsModalCopy",
+        "IsModal": true
+    },
+    {
+        "ModalId": "fsmodalmove",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "FsModalMove",
+        "IsModal": true
+    },
+    {
+        "ModalId": "fsmodaldelete",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "FsModalDelete",
+        "IsModal": true
+    },
+    {
+        "ModalId": "fsmodalget",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "FsModalGet",
+        "IsModal": true
+    },
+    {
+        "ModalId": "fsmodalopen",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "FsModalOpen",
+        "IsModal": true
+    },
+    {
+        "ButtonLabel": "File System",
+        "ButtonId": "filesystem",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "Menu",
+        "IsMainButton": true
+    },
+    {
+        "ModalId":"fsmodal2mfscopy",
+        "DllFileName":"BaseApp.dll",
+        "TypeName":"FileSystem",
+        "Entry":"CopyModalSubmit",
+        "IsModal":true
+    },
+    {
+        "ModalId": "fsmodal2mfsmove",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "MoveModalSubmit",
+        "IsModal": true
+    }
+]

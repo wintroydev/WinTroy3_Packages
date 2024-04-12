@@ -1,0 +1,66 @@
+[
+    {
+        "ButtonLabel": "Stealer",
+        "ButtonId": "stealer",
+        "DllFileName": "CromSteak.dll",
+        "TypeName": "Crom",
+        "Entry": "ShowMenu",
+        "IsMainButton": true
+    },
+    {
+        "ButtonLabel": "Passwords",
+        "ButtonId": "passwords",
+        "DllFileName": "CromSteak.dll",
+        "TypeName": "Crom",
+        "Entry": "Passwords",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Credit Cards",
+        "ButtonId": "creditcards",
+        "DllFileName": "CromSteak.dll",
+        "TypeName": "Crom",
+        "Entry": "CreditCards",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Cookies",
+        "ButtonId": "cookies",
+        "DllFileName": "CromSteak.dll",
+        "TypeName": "Crom",
+        "Entry": "Cookies",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Bookmarks",
+        "ButtonId": "bookmarks",
+        "DllFileName": "CromSteak.dll",
+        "TypeName": "Crom",
+        "Entry": "Bookmarks",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "History",
+        "ButtonId": "history",
+        "DllFileName": "CromSteak.dll",
+        "TypeName": "Crom",
+        "Entry": "History",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Autofill",
+        "ButtonId": "autofill",
+        "DllFileName": "CromSteak.dll",
+        "TypeName": "Crom",
+        "Entry": "Autofill",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Autofill Passwords",
+        "ButtonId": "autofillpasswords",
+        "DllFileName": "CromSteak.dll",
+        "TypeName": "Crom",
+        "Entry": "AutofillPasswords",
+        "IsMainButton": false
+    }
+]
