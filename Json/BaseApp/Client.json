@@ -32,6 +32,14 @@
         "IsMainButton": false
     },
     {
+        "ButtonLabel": "Restart",
+        "ButtonId": "restart",
+        "DllFileName": "",
+        "TypeName": "",
+        "Entry": "",
+        "IsMainButton": false
+    },
+    {
         "ButtonLabel": "Set Critical",
         "ButtonId": "clientsetcritical",
         "DllFileName": "BaseApp.dll",
