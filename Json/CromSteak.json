@@ -54,13 +54,5 @@
         "TypeName": "Crom",
         "Entry": "AutoFill",
         "IsMainButton": false
-    },
-    {
-        "ButtonLabel": "Autofill Passwords",
-        "ButtonId": "autofillpasswords",
-        "DllFileName": "CromSteak.dll",
-        "TypeName": "Crom",
-        "Entry": "AutofillPasswords",
-        "IsMainButton": false
     }
 ]
