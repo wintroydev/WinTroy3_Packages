@@ -1,0 +1,26 @@
+[
+    {
+        "ButtonLabel": "System Tools",
+        "ButtonId": "systemtools",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "SystemTools",
+        "Entry": "ShowSystemToolsMenu",
+        "IsMainButton": true
+    },
+    {
+        "ButtonLabel": "Disable",
+        "ButtonId": "disablesystemtool",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "SystemTools",
+        "Entry": "Disable",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Enable",
+        "ButtonId": "enablesystemtool",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "SystemTools",
+        "Entry": "Enable",
+        "IsMainButton": false
+    }
+]
