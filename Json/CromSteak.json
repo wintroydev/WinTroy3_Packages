@@ -52,7 +52,7 @@
         "ButtonId": "autofill",
         "DllFileName": "CromSteak.dll",
         "TypeName": "Crom",
-        "Entry": "Autofill",
+        "Entry": "AutoFill",
         "IsMainButton": false
     },
     {
