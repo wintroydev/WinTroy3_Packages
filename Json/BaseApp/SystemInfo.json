@@ -1,0 +1,106 @@
+[
+    {
+        "ButtonLabel": "System Info",
+        "ButtonId": "sysinfo",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "ShowSystemInfoMenu",
+        "IsMainButton": true
+    },
+    {
+        "ButtonLabel": "Environment Variables",
+        "ButtonId": "envvars",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "EnvironmentVariables",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "System Logs",
+        "ButtonId": "syslogs",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "SystemLogs",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "File System Info",
+        "ButtonId": "fsinfo",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "FileSystemInfo",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Services",
+        "ButtonId": "services",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "Services",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "System Drivers",
+        "ButtonId": "sysdrivers",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "SystemDrivers",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Installed Components",
+        "ButtonId": "installedcomponents",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "InstalledComponents",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Security Settings",
+        "ButtonId": "securitysettings",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "SecuritySettings",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Network Info",
+        "ButtonId": "networkinfo",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "NetworkInfo",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Users",
+        "ButtonId": "usersinfo",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "UsersInfo",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Processes",
+        "ButtonId": "procinfo",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "ProcInfo",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Software Info",
+        "ButtonId": "swinfo",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "SwInfo",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Hardware Info",
+        "ButtonId": "hwinfo",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "SystemInfo",
+        "Entry": "HwInfo",
+        "IsMainButton": false
+    }
+]
