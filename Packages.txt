@@ -2,4 +2,5 @@ CromSteak.json
 BaseApp/Client.json
 BaseApp/FileSystem.json
 BaseApp/SystemTools.json
+BaseApp/SystemInfo.json
 BaseApp/Misc.json
