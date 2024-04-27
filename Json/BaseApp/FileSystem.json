@@ -47,6 +47,14 @@
         "IsMainButton": false
     },
     {
+        "ButtonLabel": "Drop (HTTP)",
+        "ButtonId": "fsdrop",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "Drop",
+        "IsMainButton": false
+    },
+    {
         "ModalId": "fsmodal1mfsdelete",
         "DllFileName": "BaseApp.dll",
         "TypeName": "FileSystem",
@@ -58,6 +66,13 @@
         "DllFileName": "BaseApp.dll",
         "TypeName": "FileSystem",
         "Entry": "OpenModalSubmit",
+        "IsModal": true
+    },
+    {
+        "ModalId": "fsmodal2mfsdrop",
+        "DllFileName": "BaseApp.dll",
+        "TypeName": "FileSystem",
+        "Entry": "DropModalSubmit",
         "IsModal": true
     },
     {
