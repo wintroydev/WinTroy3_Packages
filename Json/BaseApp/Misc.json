@@ -14,5 +14,13 @@
         "TypeName": "Misc",
         "Entry": "Screenshot",
         "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "CMD",
+        "ButtonId": "cmdinfo",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "Misc",
+        "Entry": "CmdInfo",
+        "IsMainButton": false
     }
 ]
