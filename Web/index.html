@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modal and Button Generator</title>
+    <link rel="stylesheet" href="App\style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Generate Modal or Button</h1>
+        <form id="form">
+            <div class="form-group">
+                <label for="isModal">Is this a modal?:</label>
+                <input type="checkbox" id="isModal" name="isModal">
+            </div>
+            <div class="form-group" id="modalFields" style="display: none;">
+                <label for="modalId">Modal ID:</label>
+                <input type="text" id="modalId" name="modalId">
+                <br>
+                <label for="dllFileName">DLL File Name:</label>
+                <input type="text" id="dllFileName" name="dllFileName">
+                <br>
+                <label for="typeName">Type Name (optional):</label>
+                <input type="text" id="typeName" name="typeName">
+                <br>
+                <label for="entry">Entry (optional):</label>
+                <input type="text" id="entry" name="entry">
+            </div>
+            <div class="form-group" id="buttonFields">
+                <label for="buttonLabel">Button Label:</label>
+                <input type="text" id="buttonLabel" name="buttonLabel">
+                <br>
+                <label for="buttonId">Button ID:</label>
+                <input type="text" id="buttonId" name="buttonId">
+                <br>
+                <label for="dllFileName">DLL File Name:</label>
+                <input type="text" id="buttonDllFileName" name="buttonDllFileName">
+                <br>
+                <label for="typeName">Type Name (optional):</label>
+                <input type="text" id="buttonTypeName" name="buttonTypeName">
+                <br>
+                <label for="entry">Entry (optional):</label>
+                <input type="text" id="buttonEntry" name="buttonEntry">
+                <br>
+                <label for="isMainButton">Is this a Main Button?:</label>
+                <input type="checkbox" id="isMainButton" name="isMainButton">
+            </div>
+            <button type="submit" class="button">Generate</button>
+        </form>
+        <div id="output" style="display: none;">
+            <h2>Generated JSON:</h2>
+            <pre id="jsonOutput"></pre>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
