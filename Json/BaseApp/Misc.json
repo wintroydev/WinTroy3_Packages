@@ -22,5 +22,13 @@
         "TypeName": "Misc",
         "Entry": "CmdInfo",
         "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Toggle Autostart",
+        "ButtonId": "toggleautostart",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "Misc",
+        "Entry": "ToggleAutostart",
+        "IsMainButton": false
     }
 ]
