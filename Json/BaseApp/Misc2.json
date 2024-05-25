@@ -1,6 +1,6 @@
 [
     {
-        "ButtonLabel": "Discord",
+        "ButtonLabel": "Discord Bot",
         "ButtonId": "discordmenu",
         "DllFileName": "BaseApp2.dll",
         "TypeName": "Dc",
