@@ -16,14 +16,6 @@
         "IsMainButton": false
     },
     {
-        "ButtonLabel": "System Logs",
-        "ButtonId": "syslogs",
-        "DllFileName": "BaseApp2.dll",
-        "TypeName": "SystemInfo",
-        "Entry": "SystemLogs",
-        "IsMainButton": false
-    },
-    {
         "ButtonLabel": "File System Info",
         "ButtonId": "fsinfo",
         "DllFileName": "BaseApp2.dll",
@@ -40,43 +32,11 @@
         "IsMainButton": false
     },
     {
-        "ButtonLabel": "System Drivers",
-        "ButtonId": "sysdrivers",
-        "DllFileName": "BaseApp2.dll",
-        "TypeName": "SystemInfo",
-        "Entry": "SystemDrivers",
-        "IsMainButton": false
-    },
-    {
-        "ButtonLabel": "Installed Components",
-        "ButtonId": "installedcomponents",
-        "DllFileName": "BaseApp2.dll",
-        "TypeName": "SystemInfo",
-        "Entry": "InstalledComponents",
-        "IsMainButton": false
-    },
-    {
-        "ButtonLabel": "Security Settings",
-        "ButtonId": "securitysettings",
-        "DllFileName": "BaseApp2.dll",
-        "TypeName": "SystemInfo",
-        "Entry": "SecuritySettings",
-        "IsMainButton": false
-    },
-    {
         "ButtonLabel": "Network Info",
         "ButtonId": "networkinfo",
         "DllFileName": "BaseApp2.dll",
         "TypeName": "SystemInfo",
         "Entry": "NetworkInfo",
-        "IsMainButton": false
-    },
-    {
-        "ButtonLabel": "Users",
-        "ButtonId": "usersinfo",
-        "DllFileName": "BaseApp2.dll",
-        "TypeName": "SystemInfo",
-        "Entry": "UsersInfo",
         "IsMainButton": false
     },
     {
